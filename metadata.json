@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Anna's tree",
+  "description": "tree",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
